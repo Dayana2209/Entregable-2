@@ -42,16 +42,17 @@ body .card-text {
 .nav-item-contacto {
     font-size: 1em;
     font-weight: bold;
-    color: grey !important;
+    color: rgb(204, 17, 17) !important;
 }
 
 .nav-item-contacto > :hover {
     font-size: 1.05em;
-    color: green !important;
+    color: rgb(91, 12, 219) !important;
 }
 
 #FormularioCotizacion #exampleInputPassword1 {
     min-height: 120px;
+   font-family: 'Times New Roman', Times, serif;
 }
 
 #TarjetasInfo .card-body {
@@ -72,7 +73,7 @@ body .card-text {
 }
 
 #SecPag2 .sec-1 .sec-1-1 {
-    background-color: rgb(69, 236, 125) !important;
+    background-color: rgb(175, 245, 198) !important;
     padding: 2%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -80,26 +81,29 @@ body .card-text {
 #SecPag2 .sec-1 .sec-1-2 {
     background-color: #FFE699 !important;
     padding: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
 
 #SecPag2 .sec-2 .sec-2-1 {
     background-color: #B4C7E7 !important;
     padding: 2%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #SecPag2 .sec-2 .sec-2-2 {
     background-color: #FFE699 !important;
     padding: 2%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #SecPag2 .sec-2 .Proyectos2 {
-    background-color: #B4C7E7 !important;
+    background-color: #83fcb5 !important;
     padding: 2%;
 }
 
 #SecPag2 .sec-2 .Proyectos3 {
-    background-color: #FFE699 !important;
+    background-color: #7fbdf7 !important;
     padding: 2%;
 }
 
