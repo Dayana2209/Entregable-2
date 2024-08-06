@@ -1,0 +1,120 @@
+@import url('https://fonts.cdnfonts.com/css/lumanosimo');
+@import url('https://fonts.cdnfonts.com/css/encode-sans-sc');
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+body h2 {
+    font-size: 2em !important;
+}
+
+body .Lumanosimo {
+    font-family: 'Lumanosimo', sans-serif;
+    font-weight: bold;
+}
+
+body .card-text {
+    font-family: 'Encode Sans SC', sans-serif;
+    font-weight: bold;
+}
+
+.carousel-inner img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.nav-item > a {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.nav-item > :hover {
+    font-size: 1.05em;
+    color: darkgoldenrod !important;
+}
+
+.nav-item > a.active {
+    color: green !important;
+    text-decoration: underline;
+}
+
+.nav-item-contacto {
+    font-size: 1em;
+    font-weight: bold;
+    color: grey !important;
+}
+
+.nav-item-contacto > :hover {
+    font-size: 1.05em;
+    color: green !important;
+}
+
+#FormularioCotizacion #exampleInputPassword1 {
+    min-height: 120px;
+}
+
+#TarjetasInfo .card-body {
+    font-family: "Bernard MT Condensed V2";
+    background-color: transparent !important;
+}
+
+#TarjetasInfo .card1 .card-body {
+    background-color: #00B0F0 !important;
+}
+
+#TarjetasInfo .card2 .card-body {
+    background-color: #00B050 !important;
+}
+
+#TarjetasInfo .card3 .card-body {
+    background-color: #FFD966 !important;
+}
+
+#SecPag2 .sec-1 .sec-1-1 {
+    background-color: rgb(69, 236, 125) !important;
+    padding: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#SecPag2 .sec-1 .sec-1-2 {
+    background-color: #FFE699 !important;
+    padding: 2%;
+    
+}
+
+#SecPag2 .sec-2 .sec-2-1 {
+    background-color: #B4C7E7 !important;
+    padding: 2%;
+}
+
+#SecPag2 .sec-2 .sec-2-2 {
+    background-color: #FFE699 !important;
+    padding: 2%;
+}
+
+#SecPag2 .sec-2 .Proyectos2 {
+    background-color: #B4C7E7 !important;
+    padding: 2%;
+}
+
+#SecPag2 .sec-2 .Proyectos3 {
+    background-color: #FFE699 !important;
+    padding: 2%;
+}
+
+footer {
+    background-color: #FFE699;
+}
+
+footer li p{
+    font-style: italic;
+}
+
+footer h2 {
+    font-size: 1.5em !important;
+}
+
+footer .icon {
+    font-size: 2rem;
+}
